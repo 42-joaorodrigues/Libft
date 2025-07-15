@@ -1,4 +1,4 @@
-# Libft - My First C Library
+# Libft
 
 ![42 Badge](https://img.shields.io/badge/42-Libft-brightgreen)
 ![C Badge](https://img.shields.io/badge/Language-C-blue)
